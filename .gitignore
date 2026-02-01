@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 .venv/
 iframe_figures/
+__pycache__/
