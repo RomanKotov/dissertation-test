@@ -115,6 +115,7 @@ tifffile==2026.1.28
 tinycss2==1.4.0
 torch
 tornado==6.5.4
+tqdm==4.67.3
 traitlets==5.14.3
 trimesh==4.11.1
 typing_extensions==4.15.0
